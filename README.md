@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi there, I'm Vanshika!
 
-<!--
-**Vanshika1007/Vanshika1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student @ IKGPTU (2022–2026)  
+🤖 Aspiring Machine Learning Engineer | AI Enthusiast  
+🌏 Passionate about building intelligent systems that solve real-world problems  
 
-Here are some ideas to get you started:
+---
+🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Languages:* Python, C, c++, JavaScript, HTML/CSS  
+- *Libraries/Frameworks:* NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow
+- *Tools:* Git, GitHub, VS Code, Jupyter Notebook  
+- *Databases:* MySQL 
+
+---
+
+## 🚀 Projects
+
+- 🧠 *IKGPTU Student Support Chatbot*  
+  LLM-based chatbot for university queries with voice & live support, built using HTML, CSS, JavaScript, and integrated ML backend.
+
+- 🌾 *Crop & Fertilizer Recommendation System*  
+  AICTE internship project using Machine Learning for smart farming solutions.
+
+---
+
+## 🏆 Achievements
+
+- ✅ Completed AI/ML training from NIELIT Haridwar  
+- ✅ AICTE Internship in Machine Learning  
+- 🏅 Hackathon Participation: ByteBattle, GNA Hackathon (Consolation Prize Winner)  
+- 🧳 Educational Trip (YLTC - Dalhousie)
+
+---
+
+## 📫 Let's Connect
+- 📫 Reach me at: [vv10072005@gmail.com](mailto:vv10072005@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vanshika-sharma-689783282/)
+
+---
