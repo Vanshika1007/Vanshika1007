@@ -27,6 +27,11 @@
 This project uses a supervised machine learning model to predict salaries based on features like years of experience.
 It aims to estimate the salary of an employee using regression analysis with high accuracy.
 
+- 🤖 PTU-AI-POWERED-CHATBOT
+
+An AI-powered chatbot developed for IKGPTU students to instantly answer university-related queries.  
+It supports both **text and voice input**, provides **live chat support**, sends **email alerts to admins** when a query is unanswered, and allows students to **download syllabus and fee structure** easily.
+
 ---
 
 ## 🏆 Achievements
