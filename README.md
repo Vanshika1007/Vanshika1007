@@ -33,6 +33,22 @@
 
 ---
 
+## 📚 Currently Learning
+
+- Deep Learning using TensorFlow and Keras
+- Solving DSA problems daily on LeetCode
+- Preparing for 2026 internship/job interviews
+
+---
+
+## 🎯 Fun Facts
+
+- 🔍 I love debugging — because finding bugs is like solving mini mysteries
+- 🎵 I enjoy music while coding 
+- 💬 Always excited to discuss tech, AI, or life hacks!
+
+---
+
 ## 📫 Let's Connect
 - 📫 Reach me at: [vv10072005@gmail.com](mailto:vv10072005@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vanshika-sharma-689783282/)
