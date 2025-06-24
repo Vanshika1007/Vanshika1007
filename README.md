@@ -25,8 +25,8 @@
 
 -  💼 Salary Prediction Project
 
-This project uses a supervised machine learning model to predict salaries based on features like years of experience.
-It aims to estimate the salary of an employee using regression analysis with high accuracy.
+      This project uses a supervised machine learning model to predict salaries based on features like years of experience.
+      It aims to estimate the salary of an employee using regression analysis with high accuracy.
 
 ---
 
