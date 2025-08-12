@@ -66,4 +66,3 @@
 
 ---
 
-> 💡 *"Turning data into insights, and ideas into intelligent systems."*
