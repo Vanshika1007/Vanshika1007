@@ -1,6 +1,6 @@
-<h1 align="center">
-  <marquee direction="right">👋 Hi there, I'm Vanshika! 👩‍💻</marquee>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=ff69b4&center=true&vCenter=true&width=500&lines=👋+Hi+there,+I'm+Vanshika!;💻+Aspiring+Data+Analyst;🚀+AI+%7C+ML+Enthusiast">
+</p>
 
 ### 💻 About Me
 - 🎓 B.Tech CSE Student (2022–2026) @ IKGPTU, Kapurthala
