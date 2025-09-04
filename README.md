@@ -1,5 +1,5 @@
 <h1 align="center">
-  <marquee behavior="alternate" direction="left">👋 Hi there, I'm Vanshika! 👩‍💻</marquee>
+  <marquee direction="right">👋 Hi there, I'm Vanshika! 👩‍💻</marquee>
 </h1>
 
 ### 💻 About Me
