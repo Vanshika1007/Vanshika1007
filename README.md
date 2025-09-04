@@ -1,9 +1,8 @@
 <!-- Moving Header -->
 <marquee behavior="alternate" direction="right" scrollamount="6">
-  👋 Hi there, I'm Vanshika! 💻
+### 👋 Hi there, I'm Vanshika! 💻
 </marquee>
 
----
 
 ### 💻 About Me
 - 🎓 B.Tech CSE Student (2022–2026) @ IKGPTU, Kapurthala
