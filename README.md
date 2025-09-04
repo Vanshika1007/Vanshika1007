@@ -1,18 +1,94 @@
-# 👋 Hi there, I'm Vanshika!  
-
-🎓 **B.Tech CSE Student (2022–2026) @ IKGPTU, Kapurthala**  
-🤖 **Aspiring Machine Learning Engineer | Data Analyst | AI Enthusiast**  
-🌏 Passionate about building **data-driven, intelligent systems** that solve **real-world problems**.  
+<!-- Moving Header -->
+<marquee behavior="alternate" direction="right" scrollamount="6">
+  👋 Hi there, I'm Vanshika! 💻
+</marquee>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 💻 About Me
+- 🎓 B.Tech CSE Student (2022–2026) @ IKGPTU, Kapurthala
+  
+- Passionate about AI, Machine Learning, and Data Analytics
 
-**Languages:** Python, C, C++, JavaScript, HTML/CSS  
-**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras  
-**Data Analytics Skills:** SQL, Data Visualization, Data Cleaning, Statistical Analysis  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
-**Databases:** MySQL  
+- Skilled in Python, Pandas, NumPy, Matplotlib, Scikit-learn, Power BI
+
+- Experienced in building chatbots, dashboards, and ML-powered applications
+
+- Currently exploring DSA and advanced analytics
+
+- Interested in solving real-world problems with data-driven solutions
+
+---
+
+### 🚀 Technical Skills  
+
+*Programming & Query Languages:*  
+<p>
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-SQL-darkblue?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white&style=flat" />
+</p>
+
+*Data Analysis & Visualization:*  
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-yellow?logo=pandas&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Matplotlib-orange?logo=plotly&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Seaborn-lightblue?style=flat" />
+  <img src="https://img.shields.io/badge/-PowerBI-yellow?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white&style=flat" />
+</p>
+
+*Databases & Cloud Platforms:*  
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-darkblue?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat" />
+</p>
+
+*Machine Learning & AI:*  
+<p>
+  <img src="https://img.shields.io/badge/-ScikitLearn-orange?logo=scikitlearn&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-NLP-blueviolet?style=flat" />
+</p>
+
+*Other Tools:*  
+<p>
+  <img src="https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Spyder-darkred?logo=spyderide&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Anaconda-darkgreen?logo=anaconda&logoColor=white&style=flat" />
+</p>
+
+---
+
+### 📜 Certifications  
+- GenAI Powered Data Analytics – *Tata Group/Forage* (Aug 2025)  
+- Data Analytics Job Simulation – *Deloitte/Forage* (Aug 2025)  
+- Data Science & Analytics – *HP LIFE* (June 2025)  
+- Hackathon Consolation Prize – *GNA Hackathon* (Apr 2024)  
+- **AI/ML Training** – NIELIT Haridwar  
+- **AICTE Internship** – Artificial Intelligence and Data Analytics 
+- **Educational Trip (YLTC – Dalhousie)**  
+
+---
+
+### 📊 GitHub Stats  
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshika1007&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanshika1007&theme=radical)
+
+---
+
+### 📈 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika1007&layout=compact&theme=radical)
 
 ---
 
@@ -35,26 +111,9 @@
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- ✅ **AI/ML Training** – NIELIT Haridwar  
-- ✅ **AICTE Internship** – Artificial Intelligence and Data Analytics 
-- 🏅 Hackathon Participation – **ByteBattle, GNA Hackathon** *(Consolation Prize Winner)*  
-- 🧳 **Educational Trip (YLTC – Dalhousie)**  
-
----
-
 ## 📚 Currently Learning
 
 - **Advanced Data Analytics** – Data cleaning, visualization & statistical modeling  
-
----
-
-## 🎯 Fun Facts
-
-- 🔍 Love **debugging** – finding bugs feels like solving mini-mysteries 🕵️‍♀️  
-- 🎵 Enjoy coding while listening to music 🎧  
-- 💬 Always excited to discuss **Tech, AI, and Data Science**  
 
 ---
 
