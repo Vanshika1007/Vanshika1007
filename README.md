@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0000FF&center=true&vCenter=true&width=500&lines=👋+Hi+there,+I'm+Vanshika!;💻+Aspiring+Data+Analyst;🚀+AI+%7C+ML+Enthusiast">
 </p>
 
+<p align="center">
+  <span style="color:#6a5acd; font-size:18px;"><strong>Data Analyst | Power BI Developer</strong></span><br>
+  <span style="color:#ff69b4; font-size:16px;">💡 Tech Enthusiast</span>
+</p>
 
 ### 💻 About Me
 - 🎓 B.Tech CSE Student (2022–2026) @ IKGPTU, Kapurthala
